@@ -6,10 +6,10 @@
       <br>
       <br>
       <br>
-      infra, swe, and ml ~ dm's open.
+      17, engineer.
       <br>
       <br>
-      If your inquiry is related to a network I manage or control, please send an email to my email listed on the respective WHOIS contact. If it's a P1 emergency, you can email ops@multiorb.net.
+      interested in ml and computers, got a hard thing for machines.
     </samp>
   </p>
 </p>
