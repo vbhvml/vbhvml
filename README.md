@@ -6,7 +6,7 @@
       <br>
       <br>
       <br>
-      17, engineer.
+      18, student at Bennett University.
       <br>
       <br>
       interested in ml and computers, got a hard thing for machines.
